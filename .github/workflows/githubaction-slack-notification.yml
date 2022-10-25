@@ -36,4 +36,3 @@ jobs:
           channel: '#notification'
           message: Deployed in the dev env Successfully
         if: always()
-.
